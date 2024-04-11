@@ -1,4 +1,4 @@
-# **"SecureGradePortal: A PHP and HTML-based Interactive Database Website"**
+# **SecureGradePortal: A PHP and HTML-based Interactive Database Website**
 
 This project employs PHP and HTML to develop a website enabling interactions with an SQL database. It facilitates communication between web users and a database server, comprising an Apache webserver and a MySQL database. Additionally, SQL security measures are incorporated to enhance the website's security.
 
